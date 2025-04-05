@@ -6,3 +6,7 @@ h1 {
 }
 
 h2{color: red;}
+
+.lista-produtos li::marker{
+    content: "😂";
+}
